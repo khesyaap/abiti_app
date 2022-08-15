@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClothesApp</string>
+    <string name="clothes">Clothes</string>
+    <string name="price">Price</string>
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="name_clothes">Name Clothes</string>
+    <string name="details">Details</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email</string>
+</resources>
